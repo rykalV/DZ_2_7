@@ -1,0 +1,28 @@
+.border_2{
+    border: 3px dashed black;
+    height:180px;
+    width:600px;font-size: 20px;
+  
+}
+.sub_one{
+    color:blue;
+}
+.sub_two{
+    color:blue;
+}
+.sub_three{
+    color:red;
+}
+.sub_four{
+    color:blue;
+}
+.sub_five{
+    color:red;
+}
+.sub_six{
+    color:blue;
+}
+
+.p_two{
+    font-style:italic;
+}
